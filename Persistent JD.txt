@@ -1,0 +1,40 @@
+Provide guidelines and recommendations on different tools and technologies.
+Build next gen test framework using latest technologies.
+Experience in evaluating new tools and automation technologies along with evaluation report.
+Lead QA strategy engagements to provide the blueprint for the QA Automation and Regression strategy.
+Ability to interact with customer executive teams through structured test architecture.
+Identify Quality Engineering and automation gaps and develop solutions for automation
+What you’ll bring
+
+Experience in Functional Test Automation development / scripting using Selenium with Java and Cucumber + BDD framework, Maven
+Hands on experience in API Test Automation using tools like SOAPUI, Rest Assured, POSTMAN etc.
+Good knowledge of REST / SOAP concepts.
+Hands on experience in Sumo Logic.
+Exposure of handling various file formats like XML, JSON etc.
+Experience of working with version control tools e.g., Git, SVN, Bitbucket, Azure DevOps repo.
+Sound knowledge in Testing concepts, Programming / OOPS concept, Database concepts, Agile process, and ceremonies.
+Good experience in Test Management tool like JIRA, Test Rail etc. Nice to have:
+Experience of using CI tools like Jenkins
+Experience of working in BFSI / Trading domain
+ Benefits
+
+Competitive salary and benefits package
+Culture focused on talent development with quarterly promotion cycles and company-sponsored higher education and certifications
+Opportunity to work with cutting-edge technologies
+Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+Annual health check-ups
+Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+Our company fosters a values-driven and people-centric work environment that enables our employees to:
+
+Accelerate growth, both professionally and personally
+Impact the world in powerful, positive ways, using the latest technologies
+Enjoy collaborative innovation, with diversity and work-life wellbeing at the core
+Unlock global opportunities to work and learn with the industry’s best
+Let's unleash your full potential. See Beyond, Rise Above
+
+For more detail, please contact Arzoo Kureshi(arzoo_kureshi@persistent.com)
+
+Location:Hinjawadi, Pune, India
+Open Positions:1
+Posted on:08-Feb-2023
+Skill Required:Test Automation-API Testing

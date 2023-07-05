@@ -1,0 +1,10 @@
+ssh, aws ec2 instance create, vpc, security group, port opening, what is reverse proxy, load balancer, tulnp full form
+service, port which are openend how to check
+
+ssh -i
+print 1-100 number
+send emails if memory utilization exceeds 80%
+Ansible
+NFS, SAMBA, SSH troubleshooting,, log rotation, logs sorting etc
+
+https://www.interviewbit.com/rest-api-interview-questions/#restful-web-services
