@@ -1,0 +1,2 @@
+Hi,
+This is Day1 of GIT practice
